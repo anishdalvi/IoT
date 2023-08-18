@@ -5,9 +5,9 @@
 //
 //   https://blynk.cloud/dashboard/templates
 
-#define BLYNK_TEMPLATE_ID "TMPL3D4Bh68VY"
+#define BLYNK_TEMPLATE_ID "TMPL3D4Bh6Y" // add your template here
 #define BLYNK_TEMPLATE_NAME "LED ESP32"
-#define BLYNK_AUTH_TOKEN "tb-Y2h5o1wrmggq9JWhkSdKu5innK5Mq"
+#define BLYNK_AUTH_TOKEN "tb-Y2h5o1wrmggq9JWhkSdKu5inn"   // add your token here
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
